@@ -3,14 +3,14 @@
 ## Queue Types
 
 ### Standard Queue
-```Mermaid
+```mermaid
 graph LR;
 
     enter[Enter queue] --> C([Customer 3]) --> B([Customer 2]) --> A([Customer 1]) --> exit[Exit queue]; 
 ```
 
 ### Priority Queue
-```Mermaid
+```mermaid
 graph LR;;
 
     regular[Regular Priority] --> C([Customer 3]) --> B([Customer 2]) --> A([Customer 1]) --> exit[Exit queue];
