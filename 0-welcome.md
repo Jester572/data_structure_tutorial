@@ -1,19 +1,15 @@
 # Data Structures Tutorial
 
-Welcome to the Python Fundamentals Tutorial.  Every beginning Python programmer should understand these basic topics:
+Welcome to the data structures tutorial! This tutorial is here to help you develop a better understanding of the python language. Although there are several different data structures that programmers use, the following data structure types will challenge you and help you to become a better developer overall. 
 
-- [Queues](1-queue.md)
-- [Linked Lists](2-linked_list.md)
-- [Trees](3-tree.md)
+- **[Queues](1-queue.md)**
+- **[Linked Lists](2-linked_list.md)**
+- **[Trees](3-tree.md)**
 
+## Information
 
-```mermaid
-graph TD
-    A[Enter Chart Definition] --> B(Preview)
-    B --> C{decide}
-    C --> D[Keep]
-    C --> E[Edit Definition]
-    E --> B
-    D --> F[Save Image and Code]
-    F --> B
-```
+Name: Jesse Earley
+
+E-mail: Jester572@yahoo.com
+
+Class: CSE212-04
