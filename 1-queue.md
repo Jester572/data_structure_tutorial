@@ -125,6 +125,7 @@ graph LR;;
 
     high[High Priority] ---> D([Customer 4]) --Washed before customer 1---> exit;
 ```
+## Try It Yourself
 Johnson's Carwash has two lines, the first is a members only line and the other is for standard users. The members only line is catered to first and will go ahead of any of the standard users.Using the above diagram create a program that creates a priority queue for Johnson's Carwash!
 
 * hint: You will need to iterate through the list of cars and find the cars that have priority and save that index to put them ahead of the others.
@@ -149,4 +150,4 @@ __[Show Answers](./queue_answers.py)__
 
 
 
-## Try It Yourself
+
