@@ -173,4 +173,4 @@ print(colors_list)
 #Linked List Values:[None[Purple]Green],[Purple[Green]Yellow],[Green[Yellow]Cyan],[Yellow[Cyan]Blue],[Yellow[Blue]Red],[Blue[Red]Black],[Red[Black]None],
 ```
 
-[Solution](./linked_list_solution.py)
+[Click Me For Solution!!!](./linked_list_solution.py)
